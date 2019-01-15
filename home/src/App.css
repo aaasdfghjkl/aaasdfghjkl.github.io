@@ -1,0 +1,59 @@
+.Content {
+  padding: 60px 30px;
+  background-color: #eaeaea;
+}
+#under {
+  text-decoration: underline;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.detail {
+  font-size: 14px;
+}
+
+.FormSignUp {
+  padding: 60px 30px;
+  background-color: #eaeaea;
+}
+label {
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.btn.btn-secondary.btn-lg {
+  width: 100%;
+}
+#buttonOpacity {
+  opacity: 0.3;
+  font-size: 17px;
+}
+#head {
+  margin-bottom: 30px;
+}
+.info {
+  font-size: 13px;
+}
+.form-control {
+  background-color: #eaeaea;
+  border: 0.5px solid #737373;
+}
+h3 {
+  font-weight: bold;
+}
+
+.InvestQuick {
+  margin: 60px 30px;
+}
+#str {
+  margin: auto;
+  width: 280px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  font-weight: bold;
+}
+.btn.btn-secondary.btn-lg {
+  margin: auto;
+}
+.InvestQuick .btn.btn-secondary.btn-lg {
+  font-size: 18px;
+}
